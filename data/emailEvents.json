@@ -1,0 +1,30 @@
+[
+  {
+    "to": "alex@remly.edu",
+    "subject": "Welcome to Remly, Alex Rivera!",
+    "template": "verification",
+    "data": {
+      "name": "Alex Rivera",
+      "role": "student",
+      "otp": "415497"
+    },
+    "sentAt": "2026-09-09T21:30:31.689Z",
+    "status": "delivered",
+    "previewSnippet": "OTP: 415497",
+    "id": "id_1788989431689_s74lukx"
+  },
+  {
+    "to": "sarah@remly.edu",
+    "subject": "Welcome to Remly, Sarah Chen!",
+    "template": "verification",
+    "data": {
+      "name": "Sarah Chen",
+      "role": "creator",
+      "otp": "866124"
+    },
+    "sentAt": "2026-09-09T21:30:38.132Z",
+    "status": "delivered",
+    "previewSnippet": "OTP: 866124",
+    "id": "id_1788989438132_m521jpg"
+  }
+]

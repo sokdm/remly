@@ -1,0 +1,24 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="remlyBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="remlyAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="remlySpark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#remlyBg)"/>
+  <!-- Stylized R with Learning Arc & Creative Spark -->
+  <path d="M168 132H280C324.183 132 360 167.817 360 212C360 256.183 324.183 292 280 292H216V380H168V132Z" fill="url(#remlyAccent)"/>
+  <path d="M216 176H276C295.882 176 312 192.118 312 212C312 231.882 295.882 248 276 248H216V176Z" fill="#090d16"/>
+  <path d="M256 280L348 380H288L216 300L256 280Z" fill="url(#remlySpark)"/>
+  <!-- Diamond Spark on top right -->
+  <path d="M372 136L384 104L416 92L384 80L372 48L360 80L328 92L360 104L372 136Z" fill="#38bdf8"/>
+</svg>

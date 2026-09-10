@@ -1,0 +1,6 @@
+{
+  "name": "Remly",
+  "description": "Two-sided educational and creator platform with AI tutoring, exams, scheduling, and creator studio tools.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
